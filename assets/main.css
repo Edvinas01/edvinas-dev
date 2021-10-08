@@ -132,6 +132,7 @@ pre {
 }
 
 code {
+  word-break: break-all;
   padding: 0.1em;
 }
 
