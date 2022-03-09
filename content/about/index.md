@@ -2,10 +2,10 @@
 title: About
 ---
 
-My name is Edvinas Danevičius. I'm a developer who loves JVM and its ecosystem. I mostly write back-end applications with Java and/or Kotlin. However, from time to time I dip my nose into game development and front-end web applications as well.
+[GitHub]: https://github.com/Edvinas01 "My GitHub profile"
+
+Howdy, I'm Edvinas Danevičius - a Software Engineer who loves to waste time tinkering with all kinds of random things. I used work on JVM back-end applications and do some front-end web development from time to time. However, now I make interactive, real-time 3D applications and other cool looking things, such as virtual reality simulations and video games.
 
 I like clean, structured and tested code. Static analysis and automation tools which help me to stay on this path are my best friends.
 
-[GitHub]: https://github.com/Edvinas01 "My GitHub profile"
-
-If you have some suggestions or just want to chat, contact me via [GitHub].
+To get in touch, contact me via the email I have exposed on [GitHub].
